@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [Live demo](https://shunkaiz.github.io/NBA-ShotChart)
 
 ### Author
-[Shunkai Zhang](http://github.com/shunkaiz)
+[Alex Wang](http://github.com/DarkAlexWang)
 
 ### About
 NBA is no doubt an exciting sports and produces many famous superstars generation by generation. Because of that, fans usually argue against each other to prove some player is better than the others. But most of fans' arguments depend on baised views instead of strong data analysis, which make the whole debate seem meaningless. <br/>
@@ -36,7 +36,7 @@ If you are a Mac user, you don't need to install any prerequisites
 ##### Clone the Repo
 In your command line/terminal, type in:
 ```
-git clone git@github.com:shunkaiz/NBA-ShotChart.git
+git clone git@github.com:DarkAlexWang/StatsBoard.git
 ```
 ##### Project Deployment
 In your command line/terminal, type in:
