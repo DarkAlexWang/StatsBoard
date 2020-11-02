@@ -1,10 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # NBA Player Scores Analysis
-[Live demo](https://shunkaiz.github.io/NBA-ShotChart)
-
-### Author
-[Alex Wang](http://github.com/DarkAlexWang)
 
 ### About
 NBA is no doubt an exciting sports and produces many famous superstars generation by generation. Because of that, fans usually argue against each other to prove some player is better than the others. But most of fans' arguments depend on baised views instead of strong data analysis, which make the whole debate seem meaningless. <br/>
